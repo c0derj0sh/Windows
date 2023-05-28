@@ -12,11 +12,12 @@ funcionalidad del ejecutable (dependencias). No manipulen estos archivos
 porque pueden crashear el funcionamiento del mismo.
 
 Podran guardar sus puntajes con su nombre, dia,fecha y hora en que lo guardaron.
-Pueden ver los puntajes en la carpeta Records/Puntajes.txt y eliminarlos 
+Podran ver los puntajes en el juego en el menu principal en Ver records.
+Tmabien pueden ver los puntajes en la carpeta Records/Puntajes.txt y eliminarlos 
 por si quieren borrar todos los records.
 
 EL juego lo podran correr ejecutando el archivo Snake.exe.
 Recuerden descomprimir el archivo zip para poder acceder a los archivos.
 Dejen sus comentarios para apoyar a que haga una version 2 (opcional).
 
-Disfruten del juego ;)
+Disfruten del juego y superen mi ultimo record de 120 manzanas comidas ;)
