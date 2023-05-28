@@ -11,9 +11,9 @@ porque pueden crashear el funcionamiento del mismo.
 
 Podran guardar sus puntajes con su nombre, dia,fecha y hora en que lo guardaron. Podran ver los puntajes en el juego 
 en el menu principal en Ver records. Tambien pueden ver los puntajes en la carpeta Records/Puntajes.txt y eliminarlos 
-por si quieren borrar todos los records.
+por si quieren borrar todos los records. Descarguen el juego en el apartado Download file de SnakeGame.zip.
 
-Descarguenlo en el apartado Download file. Recuerden descomprimir el archivo zip para poder acceder a los archivos.
-Dejen sus comentarios para apoyar a que haga una version 2 (opcional).
+Recuerden descomprimir el archivo zip para poder acceder a los archivos. Ejecutan el juego en el folder descomprimido Snake.exe.
+Dejen sus comentarios para apoyar a que haga una version 2 (opcional). 
 
 Disfruten del juego y superen mi ultimo record de 120 manzanas comidas ;)
